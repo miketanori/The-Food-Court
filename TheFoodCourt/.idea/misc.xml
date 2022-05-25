@@ -4,6 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Otros/AndroidStudio/AndroidStudioProjects/Proyecto de dispositivos moviles/The-Food-Court/TheFoodCourt/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Otros/AndroidStudio/AndroidStudioProjects/Proyecto de dispositivos moviles/The-Food-Court/TheFoodCourt/app/src/main/res/layout/item_main_foodcard.xml" value="0.159375" />
+        <entry key="..\:/Otros/AndroidStudio/AndroidStudioProjects/Proyecto de dispositivos moviles/The-Food-Court/TheFoodCourt/app/src/main/res/layout/item_menu_foodcard.xml" value="0.3333333333333333" />
+        <entry key="..\:/Otros/AndroidStudio/AndroidStudioProjects/Proyecto de dispositivos moviles/The-Food-Court/TheFoodCourt/app/src/main/res/layout/main_scrollable.xml" value="0.159375" />
       </map>
     </option>
   </component>
