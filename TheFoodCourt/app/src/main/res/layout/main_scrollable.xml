@@ -5,6 +5,13 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/main_items_rView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="1dp" />
+
     <ScrollView
         android:id="@+id/main_scroll"
         android:layout_width="409dp"
@@ -14,9 +21,5 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
 
-        <androidx.recyclerview.widget.RecyclerView
-            android:id="@+id/main_items_rView"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
     </ScrollView>
 </androidx.constraintlayout.widget.ConstraintLayout>
