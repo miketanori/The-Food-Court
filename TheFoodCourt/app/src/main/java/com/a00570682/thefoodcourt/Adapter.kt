@@ -26,7 +26,7 @@ class Adapter (var restaurants: List<RestaurantCardData>) : RecyclerView.Adapter
             restName.text = restaurants[position].name
             restDescription.text = restaurants[position].description
 
-            imageViewCard.setImageResource(R.drawable.image1)
+            //imageViewCard.setImageResource(R.drawable.image1)
         //textViewFecha.text = restaurants[position].imagePath
         }
 

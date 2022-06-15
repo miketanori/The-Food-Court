@@ -7,8 +7,8 @@ class MainMenuViewModel: ViewModel() {
 
     private val _foodRestaurants = mutableListOf<RestaurantCardData>()
     val restaurantsList get() = _foodRestaurants
-    val name = "Ch"
-    val description = "osidfanfdosa"
+    val name = "Chilaquiles Tec"
+    val description = "Bienvenido a los chilaquiles Tec"
     val image = "image1.png"
     val screen = "ChilaquilesTecScreen"
 
