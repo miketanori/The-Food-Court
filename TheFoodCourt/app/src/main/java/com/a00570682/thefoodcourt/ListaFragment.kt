@@ -2,14 +2,15 @@ package com.a00570682.thefoodcourt
 
 import android.os.Bundle
 import android.util.Log
+import android.content.Intent
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.core.view.get
 import androidx.fragment.app.activityViewModels
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.a00570682.thefoodcourt.databinding.FragmentListaBinding
-import java.io.Console
 
 
 /**

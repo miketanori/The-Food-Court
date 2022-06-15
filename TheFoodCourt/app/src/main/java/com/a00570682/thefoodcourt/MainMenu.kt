@@ -1,9 +1,13 @@
 package com.a00570682.thefoodcourt
 
+import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import androidx.core.view.get
+import androidx.fragment.app.Fragment
 import androidx.navigation.fragment.NavHostFragment
 import androidx.navigation.ui.NavigationUI.setupWithNavController
+import com.a00570682.thefoodcourt.databinding.FragmentListaBinding
 //import androidx.navigation.fragment.NavHostFragment
 //import androidx.navigation.ui.NavigationUI.setupWithNavController
 import com.a00570682.thefoodcourt.databinding.MainContainerBinding
